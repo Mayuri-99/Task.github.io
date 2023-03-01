@@ -1,0 +1,19 @@
+.demo{margin: 0; padding: 0; box-sizing: border-box;}
+.carousel-inner img {
+    width: 240vh;
+    height: 60vh;
+  }
+  .nav nav-pills{
+    
+    border: 1px  solid #000;
+  }
+  .div1{
+    font-family: 'Times New Roman', Times, serif;
+    border: 3px solid black;
+    outline: 1px black;
+    background-image: url("imahe22.jpg");
+                background-repeat: no-repeat;
+            
+                background-size: 1600px;
+    background-repeat: no-repeat;
+  }
